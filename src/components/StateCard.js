@@ -4,7 +4,7 @@ function StateCard(props)
 {
     return (
             <div className="col-md-4">
-                <div className="m-1 border border-primary text-center">
+                <div className="m-1 border border-info text-center">
                 <img
                     src={props.image}
                     onClick={props.onClick}
