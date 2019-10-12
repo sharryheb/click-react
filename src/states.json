@@ -1,0 +1,252 @@
+[
+{
+"name": "Alabama",
+"slug": "alabama",
+"clicked": false
+},
+{
+"name": "Alaska",
+"slug": "alaska",
+"clicked": false
+},
+{
+"name": "Arizona",
+"slug": "arizona",
+"clicked": false
+},
+{
+"name": "Arkansas",
+"slug": "arkansas",
+"clicked": false
+},
+{
+"name": "California",
+"slug": "california",
+"clicked": false
+},
+{
+"name": "Colorado",
+"slug": "colorado",
+"clicked": false
+},
+{
+"name": "Connecticut",
+"slug": "connecticut",
+"clicked": false
+},
+{
+"name": "Delaware",
+"slug": "delaware",
+"clicked": false
+},
+{
+"name": "Florida",
+"slug": "florida",
+"clicked": false
+},
+{
+"name": "Georgia",
+"slug": "georgia",
+"clicked": false
+},
+{
+"name": "Hawaii",
+"slug": "hawaii",
+"clicked": false
+},
+{
+"name": "Idaho",
+"slug": "idaho",
+"clicked": false
+},
+{
+"name": "Illinois",
+"slug": "illinois",
+"clicked": false
+},
+{
+"name": "Indiana",
+"slug": "indiana",
+"clicked": false
+},
+{
+"name": "Iowa",
+"slug": "iowa",
+"clicked": false
+},
+{
+"name": "Kansas",
+"slug": "kansas",
+"clicked": false
+},
+{
+"name": "Kentucky",
+"slug": "kentucky",
+"clicked": false
+},
+{
+"name": "Louisiana",
+"slug": "louisiana",
+"clicked": false
+},
+{
+"name": "Maine",
+"slug": "maine",
+"clicked": false
+},
+{
+"name": "Maryland",
+"slug": "maryland",
+"clicked": false
+},
+{
+"name": "Massachusetts",
+"slug": "massachusetts",
+"clicked": false
+},
+{
+"name": "Michigan",
+"slug": "michigan",
+"clicked": false
+},
+{
+"name": "Minnesota",
+"slug": "minnesota",
+"clicked": false
+},
+{
+"name": "Mississippi",
+"slug": "mississippi",
+"clicked": false
+},
+{
+"name": "Missouri",
+"slug": "missouri",
+"clicked": false
+},
+{
+"name": "Montana",
+"slug": "montana",
+"clicked": false
+},
+{
+"name": "Nebraska",
+"slug": "nebraska",
+"clicked": false
+},
+{
+"name": "Nevada",
+"slug": "nevada",
+"clicked": false
+},
+{
+"name": "NewHampshire",
+"slug": "new-hampshire",
+"clicked": false
+},
+{
+"name": "NewJersey",
+"slug": "new-jersey",
+"clicked": false
+},
+{
+"name": "NewMexico",
+"slug": "new-mexico",
+"clicked": false
+},
+{
+"name": "NewYork",
+"slug": "new-york",
+"clicked": false
+},
+{
+"name": "NorthCarolina",
+"slug": "north-carolina",
+"clicked": false
+},
+{
+"name": "NorthDakota",
+"slug": "north-dakota",
+"clicked": false
+},
+{
+"name": "Ohio",
+"slug": "ohio",
+"clicked": false
+},
+{
+"name": "Oklahoma",
+"slug": "oklahoma",
+"clicked": false
+},
+{
+"name": "Oregon",
+"slug": "oregon",
+"clicked": false
+},
+{
+"name": "Pennsylvania",
+"slug": "pennsylvania",
+"clicked": false
+},
+{
+"name": "RhodeIsland",
+"slug": "rhode-island",
+"clicked": false
+},
+{
+"name": "SouthCarolina",
+"slug": "south-carolina",
+"clicked": false
+},
+{
+"name": "SouthDakota",
+"slug": "south-dakota",
+"clicked": false
+},
+{
+"name": "Tennessee",
+"slug": "tennessee",
+"clicked": false
+},
+{
+"name": "Texas",
+"slug": "texas",
+"clicked": false
+},
+{
+"name": "Utah",
+"slug": "utah",
+"clicked": false
+},
+{
+"name": "Vermont",
+"slug": "vermont",
+"clicked": false
+},
+{
+"name": "Virginia",
+"slug": "virginia",
+"clicked": false
+},
+{
+"name": "Washington",
+"slug": "washington",
+"clicked": false
+},
+{
+"name": "WestVirginia",
+"slug": "west-virginia",
+"clicked": false
+},
+{
+"name": "Wisconsin",
+"slug": "wisconsin",
+"clicked": false
+},
+{
+"name": "Wyoming",
+"slug": "wyoming",
+"clicked": false
+}
+]
